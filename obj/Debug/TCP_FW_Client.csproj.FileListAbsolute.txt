@@ -1,0 +1,8 @@
+D:\GameCpp\BTL\TCP_FW_Client\bin\Debug\TCP_FW_Client.exe.config
+D:\GameCpp\BTL\TCP_FW_Client\bin\Debug\TCP_FW_Client.exe
+D:\GameCpp\BTL\TCP_FW_Client\bin\Debug\TCP_FW_Client.pdb
+D:\GameCpp\BTL\TCP_FW_Client\obj\Debug\TCP_FW_Client.csproj.AssemblyReference.cache
+D:\GameCpp\BTL\TCP_FW_Client\obj\Debug\TCP_FW_Client.csproj.SuggestedBindingRedirects.cache
+D:\GameCpp\BTL\TCP_FW_Client\obj\Debug\TCP_FW_Client.csproj.CoreCompileInputs.cache
+D:\GameCpp\BTL\TCP_FW_Client\obj\Debug\TCP_FW_Client.exe
+D:\GameCpp\BTL\TCP_FW_Client\obj\Debug\TCP_FW_Client.pdb
